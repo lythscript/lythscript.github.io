@@ -1,4 +1,4 @@
-.bdiv {
+.bdiv-container {
   width: 640px;
   height: 100px;
   padding: 10px;
@@ -63,7 +63,10 @@ button {
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
-  position: absolute;
+  
+}
+.bdiv{
+position: absolute;
   bottom: 0;
   right: 0;
 }
