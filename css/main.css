@@ -67,8 +67,8 @@ button {
 }
 .bdiv{
 position: absolute;
-  bottom: 4em;
-  right: 4em;
+  bottom: 30px;
+  right: 30px;
 }
 
 button:hover {background-color: #3e8e41}
