@@ -1,5 +1,5 @@
 .bdiv-container {
-  width: 650px;
+  width: 670px;
   height: 300px;
   padding: 10px;
   border: 5px solid gray;
@@ -67,7 +67,7 @@ button {
 }
 .bdiv{
 position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   right: 10px;
 }
 
