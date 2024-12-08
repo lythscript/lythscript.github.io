@@ -64,6 +64,7 @@ button {
   box-shadow: 0 9px #999;
   position: absolute;
   bottom: 0;
+  right: 0;
 }
 
 button:hover {background-color: #3e8e41}
