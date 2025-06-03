@@ -9,7 +9,7 @@ description: Welcome to Lythscript
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event,'downloads')" id="defaultOpen" >Downloads</button>
-  <button class="tablinks" onclick="openTab(event,'blog')" >Blog</button>
+  <button class="tablinks" onclick="openTab(event,'linux')" >Linux</button>
   <button class="tablinks" onclick="openTab(event,'license')" >License</button>
   <button class="tablinks" onclick="openTab(event,'about')" >About this site</button>
   
@@ -47,15 +47,34 @@ description: Welcome to Lythscript
 
 </div>
 
-<div id="blog" class="tabcontent">
-<h1>Posts</h1>
-	<ul class="posts">
+<div id="linux" class="tabcontent">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-  </ul>
+    <div class = "bdiv-container">
+  <h1>Software <font color="green">0.00</font></h1>
+	<hr>
+  <p>software </p>
+  <div class = "bdiv">
+  <button class="xbutton">Download</button>
+  </div>
+</div>
 
+<div class = "bdiv-container">
+  <h1>Software <font color="green">0.00</font></h1>
+	<hr>
+  <p>software </p>
+  <div class = "bdiv">
+  <button class="xbutton">Download</button>
+  </div>
+</div>
+
+<div class = "bdiv-container">
+  
+  <div class ="b1"><button class= "bn" onclick="document.location='#'">Software 0.00</button></div>
+  <div class ="b2"><button class= "bn" onclick="document.location='#'">Software 0.00</button></div>
+  <div class ="b3"><button class= "bn" onclick="document.location='#'">Software 0.00</button></div>
+  <div class ="b4"><button class= "bn" onclick="document.location='#'">Software 0.00</button></div>
+
+</div>
 </div>
 
 <div id="license" class="tabcontent">
