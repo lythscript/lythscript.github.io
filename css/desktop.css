@@ -239,10 +239,35 @@ button:active {
 .gc {
     display: grid;
     grid-template-areas: "bn1 bn2"
-                         "bn1 bn2"
-                         "bn1 bn2"
-                         "bn1 bn2";
+                         "bn3 bn4"
+                         "bn5 bn6"
+                         "bn7 bn8";
     grid-gap: 5px;
+}
+
+.gi:nth-child(1) {
+    grid-area: bn1;
+}
+.gi:nth-child(2) {
+    grid-area: bn2;
+}
+.gi:nth-child(3) {
+    grid-area: bn3;
+}
+.gi:nth-child(4) {
+    grid-area: bn4;
+}
+.gi:nth-child(5) {
+    grid-area: bn5;
+}
+.gi:nth-child(6) {
+    grid-area: bn6;
+}
+.gi:nth-child(7) {
+    grid-area: bn7;
+}
+.gi:nth-child(8) {
+    grid-area: bn8;
 }
 
 
