@@ -239,8 +239,8 @@ button:active {
 .bdiv2{
   display: grid;
   width: 1fr;
-	grid-template-columns: repeat(2, 1fr);
-	grid-gap: 1em;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 0.5em;
 }
   
 
