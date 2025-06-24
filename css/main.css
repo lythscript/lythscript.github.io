@@ -195,7 +195,7 @@ button:active {
 
 .bn{
   display: inline-block;
-  padding: 20px 30px;
+  padding: 30px 30px;
   font-size: 24px;
   cursor: pointer;
   text-align: center;
@@ -211,7 +211,7 @@ button:active {
 
 .bn3{
   display: inline-block;
-  padding: 20px 30px;
+  padding: 30px 30px;
   font-size: 24px;
   cursor: pointer;
   text-align: center;
