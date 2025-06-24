@@ -206,11 +206,12 @@ button:active {
   border-radius: 15px;
   box-shadow: 0 9px #999;
   margin-top: 10px;
+  margin-left: 10px:
 }
 
 .bn3{
   display: inline-block;
-  padding: 10px 20px;
+  padding: 20px 30px;
   font-size: 24px;
   cursor: pointer;
   text-align: center;
@@ -222,6 +223,7 @@ button:active {
   border-radius: 15px;
   box-shadow: 0 9px #999;
   margin-top: 15px;
+  margin-left: 10px;
 }
 
 .bdiv2{
