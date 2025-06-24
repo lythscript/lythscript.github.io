@@ -6,7 +6,7 @@
 }
 .flex-container > div{
 border-radius: 25px;
-  width: 350px;
+  width: 370px;
   height: 300px;
   padding: 10px;
   border: 5px solid gray;
@@ -214,7 +214,7 @@ button:active {
   border-radius: 15px;
   box-shadow: 0 9px #999;
   margin-right: 20px;
-  margin-left: 40px;
+  margin-left: 20px;
   margin-top:30px;
 }
 
@@ -240,9 +240,4 @@ button:active {
 position: absolute;
   top:0px;
   left:0px;
-}
-.bdiv3{
-position: relative;
-  top:0px;
-  right:0px;
 }
