@@ -236,5 +236,14 @@ button:active {
   margin-top:30px;
 }
 
+.gc {
+    display: grid;
+    grid-template-areas: "bn1 bn2"
+                         "bn1 bn2"
+                         "bn1 bn2"
+                         "bn1 bn2";
+    grid-gap: 5px;
+}
+
 
 
