@@ -203,7 +203,7 @@ button:active {
 .bn{
   display: inline-block;
   padding: 10px 20px;
-  font-size: 20px;
+  font-size: 10px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
@@ -213,15 +213,15 @@ button:active {
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-top:30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top:10px;
 }
 
 .bn3{
   display: inline-block;
   padding: 10px 20px;
-  font-size: 20px;
+  font-size: 10px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
@@ -231,16 +231,16 @@ button:active {
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
-  margin-right: 20px;
-  margin-left: 40px;
-  margin-top:30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top:10px;
 }
 
 .bdiv2{
   display: grid;
   width: 1fr;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 0.5em;
+  grid-gap: 1em;
 }
   
 
