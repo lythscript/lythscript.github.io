@@ -195,7 +195,7 @@ button:active {
 
 .bn{
   display: inline-block;
-  padding: 30px 30px;
+  padding: 100px 30px;
   font-size: 24px;
   cursor: pointer;
   text-align: center;
